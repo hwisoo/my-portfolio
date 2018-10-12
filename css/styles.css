@@ -2,8 +2,16 @@
     background-color: #386ac1;
 }
 
-.navbar * {
+.navbar span {
     color: white;
+}
+.navbar a {
+    color: #c8d4eb;
+}
+
+.navbar a:hover {
+    color: white;
+    font-size: 1.1rem;
 }
 
 .navbar-brand {
