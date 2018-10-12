@@ -1,12 +1,12 @@
-# _{My Portfolio Page}_
+# _My Portfolio Page_
 
-#### _{My Portfolio Page using Bootstrap}, {Oct 2018}_
+#### _My Portfolio Page using Bootstrap, Oct 2018_
 
-#### By _**{List of contributors}**_
+#### By _**James Cho**_
 
 ## Description
 
-_{ A simple porfolio page, made responsive with Bootstrap and customized CSS}_
+_ A simple porfolio page, made responsive with Bootstrap and customized CSS_
 
 ## Setup/Installation Requirements
 
@@ -16,18 +16,18 @@ _{ A simple porfolio page, made responsive with Bootstrap and customized CSS}_
 
 ## Known Bugs
 
-_{No known bugs }_
+No known bugs 
 
 ## Support and contact details
 
-_{}_
+
 
 ## Technologies Used
 
-_{HTML, CSS, Bootstrap, Font-Awesome, Google-Fonts}_
+HTML, CSS, Bootstrap, Font-Awesome, Google-Fonts
 
 ### License
 
-*{MIT License}*
+*MIT License*
 
-Copyright (c) 2018 **_{James Cho}_**
+Copyright (c) 2018 **_James Cho_**
