@@ -57,6 +57,7 @@
     color: white;
 }
 
+
 #portfolio img {
     margin-top: 15px;
     margin-bottom: 25px;
@@ -73,6 +74,7 @@
 
 #contact p i {
     color: #007bff;
+    margin-right:10px;
 }
 
 #contact li .btn {
