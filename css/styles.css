@@ -20,6 +20,10 @@
     margin-right: 100px;
 }
 
+.jumbotron h1 {
+    font-family: 'Permanent Marker', cursive;
+}
+
  #about h1, #portfolio h1, #contact h1 {
     font-family: 'Delius Unicase', cursive;
 }
