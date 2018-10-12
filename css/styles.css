@@ -1,6 +1,19 @@
+.navbar {
+    background-color: #386ac1;
+}
+
+.navbar * {
+    color: white;
+}
+
+.navbar-brand {
+    margin-left:50px;
+    margin-right: 100px;
+}
+
 #aboutpic {
     width:200px;
-    height:200px;
+    height:100px;
     float: left;
     border-radius: 60%;
 }
