@@ -29,7 +29,7 @@
 }
 .container {
     padding-top: 40px;
-    padding-bottom: 50px;
+    padding-bottom: 70px;
 }
 
 #aboutpic {
@@ -66,6 +66,10 @@
     margin-top: 15px;
     margin-bottom: 25px;
     border: 2px solid white;
+}
+
+#portfolio img:hover {
+    opacity:0.4;
 }
 
 #contact .row {
