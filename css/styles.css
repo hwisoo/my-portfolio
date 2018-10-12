@@ -25,10 +25,16 @@
 #about h3, p {
     width: 70%;
     margin:auto;
+    padding-bottom: 10px;
 }
 
 #portfolio {
     background-color: #386ac1;
     color: white;
     padding-bottom: 30px;
+}
+
+#portfolio img {
+    margin-top: 15px;
+    margin-bottom: 25px;
 }
