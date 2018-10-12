@@ -26,3 +26,9 @@
     width: 70%;
     margin:auto;
 }
+
+#portfolio {
+    background-color: #386ac1;
+    color: white;
+    padding-bottom: 30px;
+}
