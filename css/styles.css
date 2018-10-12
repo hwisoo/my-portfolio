@@ -27,6 +27,8 @@
     padding-bottom: 50px;
 }
 
+
+
 #aboutpic {
     width:80px;
     height:100px;
@@ -48,5 +50,9 @@
 #portfolio img {
     margin-top: 15px;
     margin-bottom: 25px;
+    border: 2px solid white;
 }
 
+#contact .row {
+    margin-top:50px;
+}
