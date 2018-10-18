@@ -12,6 +12,7 @@ _ A simple porfolio page, made responsive with Bootstrap and customized CSS_
 
 * Clone Repository
 * Open index.html
+* See Demo here: https://hwisoo.github.io/my-portfolio/
 
 
 ## Known Bugs
